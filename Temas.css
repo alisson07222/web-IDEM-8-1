@@ -63,7 +63,7 @@
 }
 .Izquierda {
     width: 20%;
-    height: 10000px;
+    height: 12000px;
     background-color: rgb(180, 132, 41);
     font-size: 40px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -71,7 +71,7 @@
 }
 .Centro  {
     width: 60%;
-    height: 10000px;
+    height: 12000px;
     background-color: rgb(180, 150, 84);
     font-size: 40px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -79,7 +79,7 @@
 }
 .Derecha {
     width: 20%;
-    height: 10000px;
+    height: 12000px;
     background-color: rgb(180, 132, 41);
     font-size: 40px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
