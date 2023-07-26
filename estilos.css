@@ -16,9 +16,7 @@
     background-repeat: no-repeat;
     
     }
-    
-    
-    
+
     .img{
     
     position: relative;
@@ -37,7 +35,7 @@
     
     left: 180px;
     
-    background-image: url("medellín.jpg");
+    background-image: url("fondo.jpg");
     
     }
     
@@ -62,4 +60,3 @@
      
     
     }
-    
