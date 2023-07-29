@@ -60,9 +60,63 @@
      
     
     }
+    
+    
+.contenido{
+
+    height: 30px;
+    
+    width: 100%;
+    
+    position: absolute;
+    
+    top: 410px;
+    
+     
+    
+    }
+    
+     
+    
+    .imagentecno{
+    
+     
+    
+    background-repeat: no-repeat;
+    
+    float:left;
+    
+    height: 200px;
+    
+    width: 260px;
+    
+    margin-left: 5px;
+    
+    margin-right:5px;
+    
+    background-image: url("fototec.jpg");
+    
+    }
+    
+    
+    
+    .textotecno{
+    
+    text-align: justify;
+    
+    color: rgb(1, 1, 12);
+    
+    font-size: 30px;
+    
+    
+    
+    }
+
+
+
     .contenido{
 
-        height: 280px;
+        height: 30px;
         
         width: 100%;
         
@@ -76,7 +130,7 @@
         
          
         
-        .imagentecno{
+        .imagenbiologia{
         
          
         
@@ -92,20 +146,119 @@
         
         margin-right:5px;
         
-        background-image: url("medellin.jpeg");
+        background-image: url("fotobiologia.jpg");
         
         }
         
         
         
-        .textotecno{
+        .textobiologia{
         
         text-align: justify;
         
-        color: azure;
+        color: rgb(1, 1, 12);
         
-        font-size: 20px;
+        font-size: 30px;
         
         
         
-        }
+        }   
+
+        .contenido{
+
+            height: 50px;
+            
+            width: 100%;
+            
+            position: absolute;
+            
+            top: 410px;
+            
+             
+            
+            }
+            
+             
+            
+            .imagenmate{
+            
+             
+            
+            background-repeat: no-repeat;
+            
+            float:left;
+            
+            height: 200px;
+            
+            width: 260px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("fotomate.jpg");
+            
+            }
+            
+            
+            
+            .textomate{
+            
+            text-align: justify;
+            
+            color: rgb(1, 1, 12);
+            
+            font-size: 30px;
+            
+            
+            
+            }   
+            .contenido{
+
+                height: 30px;
+                
+                width: 100%;
+                
+                position: absolute;
+                
+                top: 410px;
+                
+                 
+                
+                }
+                
+                 
+                
+                .imagenreligion{
+                
+                 
+                
+                background-repeat: no-repeat;
+                
+                float:left;
+                
+                height: 1000px;
+                
+                width: 1000px;
+                
+                margin-left: 5px;
+                
+                margin-right:5px;
+                
+                background-image: url("fotoreligion.jpg");
+                
+                }
+                
+                
+                
+                .textoreligion{
+                
+                text-align: justify;
+                
+                color: rgb(1, 1, 12);
+                
+                font-size: 30px;
+                
+                
+                
+                }   
