@@ -23,9 +23,9 @@
     
      
     
-    width: 190px;
+    width: 3000px;
     
-    height: 190px;
+    height: 1000px;
     
     border-radius: 10px;
     
@@ -262,3 +262,46 @@
                 
                 
                 }   
+
+
+
+                .imagen{
+        
+         
+        
+                    background-repeat: no-repeat;
+                    
+                    float:right;
+                    
+                    height: 200px;
+                    
+                    width: 260px;
+                    
+                    margin-left: 5px;
+                    
+                    margin-right:5px;
+                    
+                    background-image: url("medellin.jpeg");
+                    
+                    }
+
+
+                    .imageninfografiasociales{
+        
+         
+        
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 3000px;
+                        
+                        width: 1000px;
+                        
+                        margin-left: 5px;
+                        
+                        margin-right:5px;
+                        
+                        background-image: url("infografiasociales.png");
+                        
+                        }
